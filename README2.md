@@ -9,7 +9,7 @@ This script is designed to compress PNG images in a specified folder to a target
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/GreatApe42069/PNG-Image-Compression-Script.git
+   git clone https://github.com/GreatApe42069/image-resize-compress-replace.git
 
 2. **Navigate to the Script Directory:**
 
